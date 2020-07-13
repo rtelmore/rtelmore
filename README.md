@@ -5,7 +5,7 @@ You can read about my projects, education, etc. on my [website](http://www.datac
 ---
 ### 📢 Find me elsewhere
 
-<p align="center">
+<p>
   <a href="https://twitter.com/rtelmore">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
